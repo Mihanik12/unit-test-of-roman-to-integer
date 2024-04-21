@@ -1,0 +1,15 @@
+D:\Desktop\C\AppForTest\AppForTest\bin\Debug\net6.0\AppForTest.exe
+D:\Desktop\C\AppForTest\AppForTest\bin\Debug\net6.0\AppForTest.deps.json
+D:\Desktop\C\AppForTest\AppForTest\bin\Debug\net6.0\AppForTest.runtimeconfig.json
+D:\Desktop\C\AppForTest\AppForTest\bin\Debug\net6.0\AppForTest.dll
+D:\Desktop\C\AppForTest\AppForTest\bin\Debug\net6.0\AppForTest.pdb
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.csproj.AssemblyReference.cache
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.AssemblyInfoInputs.cache
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.AssemblyInfo.cs
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.csproj.CoreCompileInputs.cache
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.dll
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\refint\AppForTest.dll
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.pdb
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\AppForTest.genruntimeconfig.cache
+D:\Desktop\C\AppForTest\AppForTest\obj\Debug\net6.0\ref\AppForTest.dll
